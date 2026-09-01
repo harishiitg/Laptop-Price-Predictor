@@ -45,15 +45,6 @@ Models were evaluated using:
 * XGBoost
 * Jupyter Notebook
 
-## Project Structure
-
-```text
-Laptop-Price-Predictor/
-│
-├── Laptop_Price_Predictor.ipynb
-├── laptop_data.csv
-└── README.md
-```
 
 ## Conclusion
 
